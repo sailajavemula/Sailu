@@ -1,0 +1,26 @@
+        p{
+            color:blue;
+            
+        }
+       table{ 
+        td{
+            color:yellow;
+            background-color:plum;
+        }
+        th{
+            color:yellow;
+            background-color: pink;
+        }
+        }
+        h3{
+          color:darkmagenta;
+          background-color: lavenderblush;
+        }
+        h1{
+            color:brown;
+            background-color: beige;
+        }
+        address{
+            color: orchid;
+            background-color: aliceblue;
+        }

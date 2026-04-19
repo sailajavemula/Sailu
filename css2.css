@@ -1,0 +1,31 @@
+p{
+    font-family:Georgia, serif;;
+    font-weight:300;
+    font-stretch:semi-condensed;
+    line-height:1.2;
+    font-variant: peitite-caps;
+    font-size:medium;
+    text-align: center;
+    text-decoration: double;
+}
+h1{
+    font-style: inherit;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: double;
+    outline-color: red;
+    box-shadow: 2px 2px 5px gray;
+    text-align: center;
+}
+body{
+    background-image:url("s.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+article p{
+    text-decoration: overline;
+    text-decoration-thickness: from-font;
+}
+article :: {
+    color:gold
+}
